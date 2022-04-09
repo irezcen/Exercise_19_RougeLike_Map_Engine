@@ -1,3 +1,5 @@
+Projekt jest częścią większej gry, któej pliki zajduja sie w repozytorium GameC
+
 W folderze bin/debug/maps znajduje się plik o nazwie "MetaMap.txt".
 Plik ten pozwala na tworzenie map z włąsnymi połaczeniami, potworami i interakcjami.
 Nazwy tego pliku nie należy zmieniać pod żadnym pozorem.
